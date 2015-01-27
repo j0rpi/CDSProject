@@ -1,0 +1,54 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MerrimentCDS\MerrimentCDS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\MerrimentCDS\MerrimentCDS\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\MerrimentCDS\MerrimentCDS\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\MerrimentCDS\MerrimentCDS\bin\Debug\MerrimentCDS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MerrimentCDS\MerrimentCDS\bin\Debug\MerrimentCDS.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Main.resources
+C:\Users\QuantumPhenix\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.exe
+C:\Users\QuantumPhenix\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.pdb
+C:\Users\QuantumPhenix\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Form1.resources
+C:\Users\QuantumPhenix\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Main.resources
+C:\Users\QuantumPhenix\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Properties.Resources.resources
+C:\Users\QuantumPhenix\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.csproj.GenerateResource.Cache
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.exe
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.pdb
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\bin\Debug\MerrimentCDS.exe
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\bin\Debug\MerrimentCDS.pdb
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Form1.resources
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Main.resources
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Properties.Resources.resources
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.accSettings.resources
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Form1.sv.resources
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\bin\Debug\sv\MerrimentCDS.resources.dll
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\sv\MerrimentCDS.resources.dll
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\bin\Debug\en\MerrimentCDS.resources.dll
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.accSettings.en.resources
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Main.sv.resources
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\en\MerrimentCDS.resources.dll
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.AppProperties.resources
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\bin\Debug\Changelog.txt
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.csprojResolveAssemblyReference.cache
+D:\Merriment Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.exe
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.pdb
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\bin\Debug\Changelog.txt
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\bin\Debug\MerrimentCDS.exe
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\bin\Debug\MerrimentCDS.pdb
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\bin\Debug\en\MerrimentCDS.resources.dll
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\bin\Debug\sv\MerrimentCDS.resources.dll
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.accSettings.resources
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.AppProperties.resources
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Form1.resources
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Main.resources
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Properties.Resources.resources
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.accSettings.en.resources
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Form1.sv.resources
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.Main.sv.resources
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\MerrimentCDS.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\en\MerrimentCDS.resources.dll
+E:\Dropbox\Dropbox\PETER-EMIL\Merriment\Src's\MerrimentCDS\MerrimentCDS\obj\x86\Debug\sv\MerrimentCDS.resources.dll

@@ -1,0 +1,40 @@
+Merriment CDS Changelog
+
+Beta 0.4 - 2013-03-15
+=================================
+- New UI
+- Added new form: Application Properties
+- Added Contextmenu to listview
+- Fixed flickering forms
+- Replaced buttons with better looking ones
+- Fixed column header text positions
+
+
+Beta 0.3 - 2013-03-08
+=================================
+- Integraded Application Database
+- Added ListView
+- Updated Application Database With ID/AdminOnly Flags
+- Added StatusStrip With Progressbar/Status Label
+- User Can Now Change Password
+- AdminOnly Applications Can Now Not Be Downloaded By Users With 'adminonly' Flag Set To 'yes'
+- Users Can Now Refresh Application Database
+- Everything Is Now Drawn By GDI+ (Can be turned off)
+- Applications Are Now Saved As (/apps/id number/application name.exe)
+- Strings Are Read From Internal Language Class (Temporarily)
+- It Is No Longer Possible To Register An Account With Existing Username
+- New Accounts Now Have A Default Avatar
+- New Accounts Now Has The Flag 'isadmin' Set To 'no'
+
+
+
+Beta 0.2 - 2013-03-05
+=================================
+- Integrated User Database
+- User Can Now Change Avatar
+- UI Re-Design
+
+
+Beta 0.1 - 2013-03-03
+=================================
+- Initial Internal Release
